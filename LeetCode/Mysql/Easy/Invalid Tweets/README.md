@@ -1,6 +1,6 @@
 # 📝 Invalid Tweets (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/invalid-tweets)
+🔗 [Problem Link](https://leetcode.com/problems/invalid-tweets/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Mysql-blue)
 

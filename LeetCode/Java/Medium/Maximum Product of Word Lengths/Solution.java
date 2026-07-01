@@ -2,15 +2,13 @@ class Solution {
 
     public int maxProduct(String[] words) {
         int max = 0;
-        int len = 0;
 
         for (int i = 0; i < words.length; i++) {
             for (int j = i + 1; j < words.length; j++) {
                 if (checkLetter(words[i], words[j])) {
-                    len = words[i].length() * words[j].length();
-                    System.out.println(words[i] + " " + words[j] + " " + len);
+                    int len = words[i].length() * words[j].length();
+                    max = Math.max(max, len);
                 }
-                max = Math.max(max, len);
             }
         }
         return max;

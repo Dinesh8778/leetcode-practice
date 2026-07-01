@@ -2,7 +2,7 @@ class Solution {
 
     public int maxProduct(String[] words) {
         int max = 0;
-
+        System.o
         for (int i = 0; i < words.length; i++) {
             for (int j = i + 1; j < words.length; j++) {
                 if (checkLetter(words[i], words[j])) {

@@ -1,6 +1,6 @@
 # 📝 Maximum Product of Word Lengths (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-product-of-word-lengths)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 

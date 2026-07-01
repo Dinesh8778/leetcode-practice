@@ -1,6 +1,6 @@
 # 📝 Vowels of All Substrings (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/vowels-of-all-substrings)
+🔗 [Problem Link](https://leetcode.com/problems/vowels-of-all-substrings/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Math, String, Dynamic Programming, Combinatorics
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---

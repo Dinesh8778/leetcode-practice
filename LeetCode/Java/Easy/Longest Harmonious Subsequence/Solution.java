@@ -10,12 +10,11 @@ class Solution {
             return 0;
         }
 
-        int count = 0;
         int max = 0;
 
         for(int i : map.keySet()){
-            count = map.getOrDefault(i+1,0);
-            max = Math.max(max,(map.get(i)+count));
+            if(map.containsKey(i+1))
+                max = Math.max(max,(map.get(i)+map.get(i+1)));
         }
 
         return max;

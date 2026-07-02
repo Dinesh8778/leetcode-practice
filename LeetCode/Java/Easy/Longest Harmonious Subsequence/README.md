@@ -1,6 +1,6 @@
 # 📝 Longest Harmonious Subsequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-harmonious-subsequence/?envType=problem-list-v2&envId=sliding-window)
+🔗 [Problem Link](https://leetcode.com/problems/longest-harmonious-subsequence)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 

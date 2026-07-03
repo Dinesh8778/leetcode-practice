@@ -1,6 +1,6 @@
 # 📝 Product Sales Analysis I (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/product-sales-analysis-i)
+🔗 [Problem Link](https://leetcode.com/problems/product-sales-analysis-i/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Mysql-blue)
 

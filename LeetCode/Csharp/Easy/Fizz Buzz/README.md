@@ -1,6 +1,6 @@
 # 📝 Fizz Buzz (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/fizz-buzz)
+🔗 [Problem Link](https://leetcode.com/problems/fizz-buzz/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Csharp-blue)
 
@@ -8,7 +8,7 @@
 Math, String, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---

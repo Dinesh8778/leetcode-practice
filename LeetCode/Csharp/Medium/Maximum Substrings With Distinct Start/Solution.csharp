@@ -1,5 +1,11 @@
 public class Solution {
     public int MaxDistinct(string s) {
-        
+        HashSet<char> set = new HashSet<char>();
+
+        for(int i = 0 ; i < s.Length; i++){
+            set.Add(s[i]);
+        }
+
+        return set.Count();
     }
 }

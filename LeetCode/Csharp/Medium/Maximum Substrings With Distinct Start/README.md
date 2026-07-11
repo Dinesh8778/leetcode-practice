@@ -1,6 +1,6 @@
 # 📝 Maximum Substrings With Distinct Start (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-substrings-with-distinct-start/)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-substrings-with-distinct-start/solutions/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Csharp-blue)
 
@@ -8,7 +8,7 @@
 Hash Table, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---

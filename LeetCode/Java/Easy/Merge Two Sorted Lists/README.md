@@ -1,6 +1,6 @@
 # 📝 Merge Two Sorted Lists (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists/)
+🔗 [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Linked List, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---

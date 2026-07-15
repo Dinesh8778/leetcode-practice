@@ -1,6 +1,6 @@
 # 📝 GCD of Odd and Even Sums (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)
+🔗 [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Csharp-blue)
 
@@ -8,7 +8,7 @@
 Math, Number Theory
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---

@@ -8,7 +8,7 @@
 Array, Math, Two Pointers, Sorting, Simulation, Number Theory
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---

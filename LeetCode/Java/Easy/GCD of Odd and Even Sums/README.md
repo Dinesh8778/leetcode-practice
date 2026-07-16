@@ -1,6 +1,6 @@
 # 📝 GCD of Odd and Even Sums (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums/solutions/7118994/o-1-mathematical-proof/)
+🔗 [Problem Link](https://leetcode.com/problems/gcd-of-odd-and-even-sums)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 

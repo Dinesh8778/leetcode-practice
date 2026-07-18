@@ -1,6 +1,6 @@
 # 📝 Find Greatest Common Divisor of Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array)
+🔗 [Problem Link](https://leetcode.com/problems/find-greatest-common-divisor-of-array/?envType=daily-question&envId=2026-07-18)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Csharp-blue)
 
@@ -8,7 +8,7 @@
 Array, Math, Number Theory
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---

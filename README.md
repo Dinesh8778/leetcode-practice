@@ -1,6 +1,6 @@
 # 🧩 Coding Practice
 
-A personal repository showcasing **Java**, **MySQL**, and **Data Structures & Algorithms** practice through solutions from **LeetCode** and **GeeksforGeeks**. Continuously maintained for interview and placement preparation.
+A personal repository showcasing **Java**, **MySQL**, and **Data Structures & Algorithms** practice through solutions from **LeetCode** . Continuously maintained for interview and placement preparation.
 
 ---
 
@@ -8,11 +8,8 @@ A personal repository showcasing **Java**, **MySQL**, and **Data Structures & Al
 
 ```text
 coding-practice/
-├── LeetCode/
-│   ├── Java/          # Java solutions to LeetCode problems
-│   └── MySQL/         # MySQL solutions to LeetCode database problems
-├── GeeksforGeeks/
-│   └── Java/          # Java solutions to GeeksforGeeks problems
+├── Java/          # Java solutions to LeetCode problems
+├── MySQL/         # MySQL solutions to LeetCode database problems
 └── README.md
 ```
 

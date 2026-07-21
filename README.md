@@ -60,4 +60,20 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->

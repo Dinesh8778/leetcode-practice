@@ -80,4 +80,8 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Dinesh8778/coding-practice/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->

@@ -76,4 +76,8 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/Dinesh8778/coding-practice/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->

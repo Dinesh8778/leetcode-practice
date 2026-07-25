@@ -81,6 +81,7 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0009-palindrome-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +90,8 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/0338-counting-bits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->

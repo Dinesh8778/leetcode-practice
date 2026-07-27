@@ -62,6 +62,7 @@ This repository is updated regularly as new problems are solved.
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,5 +97,10 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/3536-maximum-product-of-two-digits/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

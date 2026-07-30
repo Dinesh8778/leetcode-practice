@@ -84,6 +84,7 @@ This repository is updated regularly as new problems are solved.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0009-palindrome-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -107,9 +108,14 @@ This repository is updated regularly as new problems are solved.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->

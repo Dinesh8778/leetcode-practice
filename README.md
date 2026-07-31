@@ -99,6 +99,7 @@ This repository is updated regularly as new problems are solved.
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Dinesh8778/coding-practice/tree/main/C#/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
@@ -109,13 +110,20 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->

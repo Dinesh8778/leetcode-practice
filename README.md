@@ -95,6 +95,7 @@ This repository is updated regularly as new problems are solved.
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0401-binary-watch](https://github.com/Dinesh8778/leetcode-practice/tree/main/Java/Easy/0401-binary-watch/) | Easy |
+| [0461-hamming-distance](https://github.com/Dinesh8778/leetcode-practice/tree/main/Java/Easy/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Dinesh8778/leetcode-practice/tree/main/0476-number-complement/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

@@ -94,6 +94,7 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Easy/0338-counting-bits/) | Easy |
+| [0401-binary-watch](https://github.com/Dinesh8778/leetcode-practice/tree/main/Java/Easy/0401-binary-watch/) | Easy |
 | [0476-number-complement](https://github.com/Dinesh8778/leetcode-practice/tree/main/0476-number-complement/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -127,4 +128,8 @@ This repository is updated regularly as new problems are solved.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dinesh8778/coding-practice/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/Dinesh8778/leetcode-practice/tree/main/Java/Easy/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
